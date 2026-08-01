@@ -11,12 +11,8 @@ ENV/
 
 # Jupyter Notebook
 .ipynb_checkpoints/
-*.ipynb
 
-# Model files (optional - if too large)
-*.pt
-*.pth
-*.weights
+
 
 # Images (optional)
 *.jpg
